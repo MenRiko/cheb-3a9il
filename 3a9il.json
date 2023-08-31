@@ -1,1 +1,267 @@
-hhhhhhhhhhhh
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-9322101337669156/8016236605",
+      "banner_admob":"ca-app-pub-9322101337669156/9272961035",
+      "native_admob":"ca-app-pub-9322101337669156/2118571573",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. Al Eshk Al Mamnoue",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21335",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"02. Achk Al Khyana ",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21336",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"03. Diroulha Laakel",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21337",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"04. Wash Teswa Denya Bla Bik",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21338",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"05. Manedreb Chika",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21339",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"06. La Deuxieme Fois",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21340",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"07. Nebrik Tkouni Lia Wahdy",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21341",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"08. Fi Denya Hadi Mandir Saheb",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21342",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"09. Walou Walou",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21343",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"10. Aref Rouhy Ghaltan",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21344",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"11. Yahyaw El Fahlat",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21345",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"12. Dar Mekrya",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21346",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"13. Tah Niveau",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21347",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"14. Nechrilek Omri Lauto",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21348",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"15. Dar Mekria",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20191",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"16. Normal",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20192",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"17. Hadi Hiya",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20193",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"18. Douga Douga",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20194",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"19. Seif Sayef",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20195",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"20. Vis Ma Vie",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20196",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"21. Niveau Tala3",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20197",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"22. Lahgoulha El Fax",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20198",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"23. Zine El Aarbi",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20199",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"24. Meli Rahet",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=20200",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"25. El Aachk El Memnou3",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19734",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"26. Mazel Mazel ",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19735",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"27. Jak El Mersoul",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19736",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"28. Soufrit Ana ",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19737",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"29. Histoire Kdima",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19738",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"30. Diroulha LAkal",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19739",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"31. Chkoun Yebki Alia",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19740",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"32. La Aachk La Sohba",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19741",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"33. Smaat Biha",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19742",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"34. Feat. Sinik Les Gladiateurs",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19743",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"",
+         "artist":"Cheb Akil",
+         "song_link":"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
+
